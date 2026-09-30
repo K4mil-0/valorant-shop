@@ -8,7 +8,7 @@ Aplikacja mobilna do śledzenia dziennego sklepu w grze Valorant. Projekt stworz
 
 Chcesz sprawdzić, jak aplikacja działa w praktyce? Pobierz gotową wersję instalacyjną na swój telefon z systemem Android:
 
-- **[📥 Pobierz wersję APK na Androida](https://expo.dev/artifacts/eas/cvdPI-JwlFO0IzxhjWWmZoy0p4XX6P1d-IB1TEFfL_I.apk)**  
+- **[📥 Pobierz wersję APK na Androida](https://github.com/K4mil-0/valorant-shop/releases/tag/v1.0)**  
   *(Kliknij link, pobierz plik na telefon i zainstaluj aplikację)*
 
 ---
